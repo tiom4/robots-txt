@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/((?!robots\\.txt).*)",
+      "destination": "https://www.theplaceskatepark.com/$1",
+      "permanent": true
+    }
+  ]
+}
